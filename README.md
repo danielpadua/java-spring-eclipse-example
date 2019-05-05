@@ -4,6 +4,6 @@ Para ler o guia completo acesse: https://medium.com/@danielpadua/java-spring-boo
 
 # Como executar
 1. Clonar este projeto: `git clone https://github.com/danielpadua/java-spring-vscode-example.git`;
-2. Navegar até o diretório: `cd java-spring-vscode-example`;
+2. Navegar até o diretório: `cd java-spring-eclipse-example`;
 3. Executar `mvn clean install`;
 4. Executar `java -jar target/java-spring-eclipse-example-0.0.1-SNAPSHOT.jar"`.
